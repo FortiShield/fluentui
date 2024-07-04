@@ -12,7 +12,7 @@
     "fela-dom": "^11.7.0",
     "fela-plugin-embedded": "^10.6.1",
     "fela-plugin-fallback-value": "^10.6.1",
-    "fela-plugin-placeholder-prefixer": "^10.6.1",
+    "fela-plugin-placeholder-prefixer": "^11.4.0",
     "fela-plugin-rtl": "^10.6.1",
     "fela-tools": "^10.6.1",
     "fela-utils": "^11.7.0",
