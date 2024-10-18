@@ -44,7 +44,7 @@
     "@fluentui/set-version": "^8.2.12",
     "@fluentui/react-monaco-editor": "^1.7.143",
     "color-check": "0.0.2",
-    "markdown-to-jsx": "^7.0.0",
+    "markdown-to-jsx": "^7.4.0",
     "office-ui-fabric-core": "^11.0.0",
     "react-custom-scrollbars": "^4.2.1",
     "react-syntax-highlighter": "^10.1.3",
