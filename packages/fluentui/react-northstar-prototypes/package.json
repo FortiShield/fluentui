@@ -5,7 +5,7 @@
   "bugs": "https://github.com/microsoft/fluentui/issues",
   "private": true,
   "dependencies": {
-    "@babel/runtime": "^7.10.4",
+    "@babel/runtime": "^7.26.10",
     "@fluentui/accessibility": "^0.66.4",
     "@fluentui/code-sandbox": "^0.66.4",
     "@fluentui/docs-components": "^0.66.4",
