@@ -30,8 +30,8 @@
   "dependencies": {
     "tslib": "^2.1.0",
     "react": "17.0.2",
-    "ts-morph": "^10.0.1",
-    "glob": "^7.1.2",
+    "ts-morph": "^10.0.2",
+    "glob": "^11.0.3",
     "yargs": "^13.3.2"
   }
 }
