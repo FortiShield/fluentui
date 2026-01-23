@@ -6,7 +6,7 @@
   "bugs": "https://github.com/microsoft/fluentui/issues",
   "dependencies": {
     "@fluentui/docs-components": "^0.66.4",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@fluentui/eslint-plugin": "*",
