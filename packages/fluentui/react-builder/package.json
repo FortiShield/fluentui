@@ -14,7 +14,7 @@
     "@fluentui/react-northstar": "^0.66.4",
     "axe-core": "4.4.3",
     "immer": "^9.0.12",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "lz-string": "^1.4.4",
     "react-document-title": "^2.0.3",
     "react-frame-component": "^4.1.1",
