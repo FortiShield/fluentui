@@ -17,7 +17,7 @@
     "fela-tools": "^10.6.1",
     "fela-utils": "^11.7.0",
     "inline-style-expand-shorthand": "^1.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "stylis": "^3.5.4"
   },
   "devDependencies": {
