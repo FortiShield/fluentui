@@ -15,7 +15,7 @@
     "@fluentui/state": "^0.66.4",
     "@fluentui/styles": "^0.66.4",
     "classnames": "^2.2.6",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "prop-types": "^15.7.2",
     "react-is": "^17.0.2"
   },
